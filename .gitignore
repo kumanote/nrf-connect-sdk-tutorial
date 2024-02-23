@@ -1,0 +1,23 @@
+# editors
+*.swp
+*~
+
+# pyenv
+.python-version
+__pycache__
+
+# Zephyr workspace
+/.west
+/bootloader
+/modules
+/nrf
+/nrfxlib
+/test
+/tools
+/zephyr
+
+# build
+/build*/
+
+# OSX
+.DS_Store
